@@ -4,13 +4,13 @@ Este projeto desenvolvido em Python, junto ao Tkinter e SQLite, permite organiza
 
 ## Funcionalidades
 
-- Catálogo Visual, permitindo que os livros sejam exibidos como uma estante digital
+- Catálogo Visual, permitindo que os livros sejam exibidos como uma estante digital;
 
-- Cadastro de livros, formulário simples para inserir título, autor, ano, gênero, capa (PNG/GIF) e arquivo PDF
+- Cadastro de livros, formulário simples para inserir título, autor, ano, gênero, capa (PNG/GIF) e arquivo PDF;
 
-- Detalhes do livro ao clicar na capa, abrindo uma janela com informações completas (título, autor, ano, gênero e capa ampliada).
+- Detalhes do livro ao clicar na capa, abrindo uma janela com informações completas (título, autor, ano, gênero e capa ampliada);
 
-- Botão direto para abrir o arquivo PDF no leitor padrão do sistema.
+- Botão direto para abrir o arquivo PDF no leitor padrão do sistema;
 
 - Possibilidade de remover ou editar livros diretamente pela janela de detalhes.
 
