@@ -51,6 +51,15 @@ class CatalogoUI:
 
         self.listar_catalogo()
 
+        rodape = tk.Label(
+            self.root,
+            text="Desenvolvido por Helena Vitória",
+            bg="#f0f0f0",
+            fg="gray",
+            font=("Arial", 9)
+        )
+        rodape.pack(side="bottom", fill="x", pady=3)
+
     def _criar_campo(self, frame, texto, linha):
         tk.Label(frame, text=texto, bg="#f0f0f0").grid(row=linha, column=0, sticky="w", pady=5)
         entry = tk.Entry(frame, width=40)
