@@ -21,4 +21,10 @@ O sistema permite cadastrar, visualizar, editar e remover obras literárias, al�
 O foco é acadêmico, servindo como exercício prático de programação, banco de dados e interface gráfica.
 
 
+## Exemplo
+<div align="center">
+<img width="892" height="528" alt="catalogo" src="https://github.com/user-attachments/assets/50606819-5a3b-40e3-9486-9b0a49c1ac19" />
+<img width="898" height="531" alt="catalogo-livro" src="https://github.com/user-attachments/assets/eb0d98ff-8489-46ba-b422-de3e36f8f038" />
+<img width="895" height="534" alt="cadastrar-livro" src="https://github.com/user-attachments/assets/2264b678-2bd8-4bf6-8e9e-c3652cc7b7e4" />
+</div>
 
