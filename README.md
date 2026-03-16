@@ -6,7 +6,7 @@ Este projeto desenvolvido em Python, junto ao Tkinter e SQLite, permite organiza
 
 - Catálogo Visual, permitindo que os livros sejam exibidos como uma estante digital;
 
-- Cadastro de livros, formulário simples para inserir título, autor, ano, gênero, capa (PNG/GIF) e arquivo PDF;
+- Cadastro de livros, com formulários simples para inserir título, autor, ano, gênero, capa (PNG/GIF) e arquivo PDF;
 
 - Detalhes do livro ao clicar na capa, abrindo uma janela com informações completas (título, autor, ano, gênero e capa ampliada);
 
